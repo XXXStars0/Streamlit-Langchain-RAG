@@ -17,4 +17,3 @@ This project implements a Retrieval-Augmented Generation (RAG) system based on t
 - The base structure was adapted from `chat_with_pdf.py`.
 - The retrieval logic references `langgraph_chroma_retreiver.ipynb`.
 - The `/data/**` files was used to validate retrieval accuracy.(Mainly `RAG_source.txt`.)
-- Still under debugging.
